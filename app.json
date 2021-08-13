@@ -2,7 +2,7 @@
   "name": "ADC MUSIC BOT",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/AuraMoon553/ADC_Music_Bot",
+  "repository": "https://github.com/AuraMoon553/ADC_Music_Bot1",
   "stack": "container",
   "buildpacks": [
    {
