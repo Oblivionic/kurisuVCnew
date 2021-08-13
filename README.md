@@ -27,7 +27,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AuraMoon553/ADC_MUSIC_BOT/tree/Py-Tgcalls(main))
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AuraMoon553/ADC_MUSIC_BOt1)
 
 Get pyrogram (p)  `SESSION` from here:
 
